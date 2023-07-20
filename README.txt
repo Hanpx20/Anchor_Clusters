@@ -30,6 +30,7 @@ Tier 1：0，2
 Tier 2：3，5，10
 Tier 3：4, 11
 Tier 4：6，7，9
+I think an explanation is that topics with high complexity and no or little proper nouns are with higher weight.
 
 目前的训练将不同组截断到了同样的长度，如果不截断，不同组的样本数量分别为（单位：万）：
 0       1       2       3       4       5       6       7       8       9       10      11
